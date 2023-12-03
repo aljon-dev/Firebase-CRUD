@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "938292775688",
+    "firebase_url": "https://noteapp-1812a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "noteapp-1812a",
+    "storage_bucket": "noteapp-1812a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938292775688:android:73fd11a905bdf8f81d3abd",
+        "android_client_info": {
+          "package_name": "com.example.noteapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrQhaGVXnKuVHHO03bNZq2SU2fVfgXUts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
